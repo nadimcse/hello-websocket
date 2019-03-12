@@ -1,10 +1,6 @@
 spring:
   application:
     name: hello-ws
-  cloud:
-    kubernetes:
-      reload:
-        enabled: true
 
 server:
   port: 8080
